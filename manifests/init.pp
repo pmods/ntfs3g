@@ -1,4 +1,4 @@
-class ntfs-3g {
+class ntfs3g {
 
     case $::operatingsystem {
         FreeBSD: {
